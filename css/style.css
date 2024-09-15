@@ -1,0 +1,80 @@
+.background{
+    background-image: url(../imges/loss-control.jpg);
+    width: 70%;
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.conteater{
+    display: flex;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+.card img{
+    width: 200px;
+    margin-left: 27%;
+    
+}
+.card{
+    margin-left: 30px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 10px;
+    width: 75vh;
+
+
+}
+.User{
+    display: flex;
+    margin-left: 4%;
+    gap: 5px;
+}
+
+.Use{
+    height: 27px;
+    border: 2px solid rgb(241, 241, 241);
+    background: #fff;
+}
+.btn{
+    width: 75vh;
+    height: 40px;
+    border: 1px solid;
+    color: #fff;
+    background: rgb(201, 29, 129);
+    margin-left: 4%;
+    margin-top: 5px;
+}
+.Back{
+    text-align: center;
+    margin: 10px;
+    font-size: 14px;
+    color: rgb(190, 36, 115);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    background: #ffffffd7;
+    color: rgb(190, 36, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    margin-top: 25vh;
+    margin-right: 20vh;
+    font-size: 5vh;
+}
+.from{
+    background: rgb(201, 29, 129);
+    width: 5px;
+    height: 45px;
+    margin: 3vh;
+    margin-top: -14%;
+   
+}
+input{
+    border: none;
+    outline-color: #cc1d83;
+}
